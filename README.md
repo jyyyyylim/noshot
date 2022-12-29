@@ -3,7 +3,7 @@ removes the youtube shorts UI, once and for all
 <br>piss simple userscript
 
 ### effects:
-forces youtube shorts to default to the default video UI, returning video functionality<br>
+forces youtube shorts to default to the default video UI, returning normal video functionality<br>
 in effect, retains the browsing and viewing of shorts without compromising with shitty UI
 
 ### installation:
