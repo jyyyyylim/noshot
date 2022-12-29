@@ -3,7 +3,7 @@ get rid of youtube shorts, once and for all
 <br>piss simple userscript
 
 ### installation:
-add this to tampermonkey
+just [add this to your userscript engine](./noshort.user.js)
 
 
 ### raison detre:
