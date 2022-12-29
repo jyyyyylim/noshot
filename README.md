@@ -1,5 +1,9 @@
 # noshot
 get rid of youtube shorts, once and for all
+<br>piss simple userscript
+
+### installation:
+add this to tampermonkey
 
 
 ### raison detre:
