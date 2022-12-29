@@ -3,7 +3,7 @@ get rid of youtube shorts, once and for all
 <br>piss simple userscript
 
 ### installation:
-just [add this to your userscript engine](./noshort.user.js)
+just [add this to your userscript engine](../../raw/main/noshort.user.js)
 
 
 ### raison detre:
