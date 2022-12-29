@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  shorts ui is soy trash
 // @author       j5ylim
+// @icon         https://github.com/jyyyyylim/noshot/raw/main/nosh.png
 // @grant        none
 // @include      *://www.youtube.com/shorts/*
 // @run-at       document-start
