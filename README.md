@@ -1,5 +1,5 @@
 # noshot
-removes the youtube shorts UI, once and for all
+effectively disables the youtube shorts UI, once and for all
 <br>piss simple userscript
 
 ### effects:
