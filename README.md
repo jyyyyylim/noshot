@@ -4,7 +4,7 @@ effectively disables the youtube shorts UI, once and for all
 
 ### effects:
 forces youtube shorts to default to the default video UI, returning normal video functionality<br>
-in effect, retains the browsing and viewing of shorts without compromising with shitty UI
+in effect, forces feature parity between shorts/videos, bypassing the handicaps youtube puts on shorts
 
 ### installation:
 just [add this to your userscript engine](../../raw/main/noshort.user.js)
