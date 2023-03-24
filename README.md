@@ -12,3 +12,6 @@ just [add this to your userscript engine](../../raw/main/noshort.user.js)
 
 ### raison detre:
 shorts ui makes zero sense both as a concept and in implementation<br>
+
+### todo:
+fix script not working when short is opened in current tab instead of a new tab (24/3)
